@@ -31,7 +31,7 @@ I like building things that are a little bit useful and a little bit silly: AI-a
   <tr>
     <td width="130" align="center">
       <a href="https://github.com/Jesse-Voo/agy-imagegen">
-        <img src="https://raw.githubusercontent.com/Jesse-Voo/agy-imagegen/main/assets/logo.png" width="100" alt="agy-imagegen" />
+        <img src="https://raw.githubusercontent.com/Jesse-Voo/Jesse-Voo/main/assets/agy-imagegen.svg" width="100" alt="agy-imagegen" />
       </a>
     </td>
     <td>
@@ -98,5 +98,7 @@ I like building things that are a little bit useful and a little bit silly: AI-a
 <br />
 
 <div align="center">
+<sub>Project icons: <a href="https://github.com/microsoft/fluentui-emoji">Fluent Emoji</a> (Microsoft, MIT) via <a href="https://iconify.design">Iconify</a>.</sub>
+<br /><br />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=6,11,20&section=footer" alt="footer" width="100%" />
 </div>
