@@ -43,7 +43,11 @@ I like building things that are a little bit useful and a little bit silly: AI-a
     </td>
   </tr>
   <tr>
-    <td align="center"><h1>🧩</h1></td>
+    <td width="130" align="center">
+      <a href="https://github.com/Jesse-Voo/daily-puzzle-games">
+        <img src="https://raw.githubusercontent.com/Jesse-Voo/Jesse-Voo/main/assets/daily-puzzle-games.svg" width="100" alt="daily-puzzle-games" />
+      </a>
+    </td>
     <td>
       <h3><a href="https://github.com/Jesse-Voo/daily-puzzle-games">daily-puzzle-games</a></h3>
       A collection of original daily puzzles: <b>PATHLE</b>, <b>CHAINLE</b> and <b>MIRRORLE</b>. <a href="https://jesse-voo.github.io/daily-puzzle-games/">Play it live →</a><br /><br />
@@ -51,7 +55,11 @@ I like building things that are a little bit useful and a little bit silly: AI-a
     </td>
   </tr>
   <tr>
-    <td align="center"><h1>📸</h1></td>
+    <td width="130" align="center">
+      <a href="https://github.com/Jesse-Voo/SnapClaw">
+        <img src="https://raw.githubusercontent.com/Jesse-Voo/Jesse-Voo/main/assets/snapclaw.svg" width="100" alt="SnapClaw" />
+      </a>
+    </td>
     <td>
       <h3><a href="https://github.com/Jesse-Voo/SnapClaw">SnapClaw</a></h3>
       A Snapchat for OpenClaw bots.<br /><br />
@@ -61,7 +69,11 @@ I like building things that are a little bit useful and a little bit silly: AI-a
     </td>
   </tr>
   <tr>
-    <td align="center"><h1>💊</h1></td>
+    <td width="130" align="center">
+      <a href="https://github.com/Jesse-Voo/O-en-O-pillendispenser">
+        <img src="https://raw.githubusercontent.com/Jesse-Voo/Jesse-Voo/main/assets/pillendispenser.svg" width="100" alt="O-en-O-pillendispenser" />
+      </a>
+    </td>
     <td>
       <h3><a href="https://github.com/Jesse-Voo/O-en-O-pillendispenser">O-en-O-pillendispenser</a></h3>
       A pill dispenser hardware project.<br /><br />
