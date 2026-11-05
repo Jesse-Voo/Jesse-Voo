@@ -36,7 +36,7 @@ I like building things that are a little bit useful and a little bit silly: AI-a
     </td>
     <td>
       <h3><a href="https://github.com/Jesse-Voo/agy-imagegen">agy-imagegen</a></h3>
-      Image-generation skill for <b>Claude Code and Codex</b>: Gemini via the Antigravity CLI, headless, no permission bypass.<br /><br />
+      Image-generation skill for <b>Claude Code, Codex and Antigravity</b>: Gemini, OpenAI, free and local models, headless, no permission bypass.<br /><br />
       <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/MCP-plugin-7C3AED?style=flat-square" alt="MCP plugin" />
