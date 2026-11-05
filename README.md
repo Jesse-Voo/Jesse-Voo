@@ -31,7 +31,7 @@ I like building things that are a little bit useful and a little bit silly: AI-a
   <tr>
     <td width="130" align="center">
       <a href="https://github.com/Jesse-Voo/agy-imagegen">
-        <img src="https://raw.githubusercontent.com/Jesse-Voo/Jesse-Voo/main/assets/agy-imagegen-icon.svg" width="100" alt="agy-imagegen" />
+        <img src="https://raw.githubusercontent.com/Jesse-Voo/Jesse-Voo/main/assets/agy-imagegen-tile.svg" width="100" alt="agy-imagegen" />
       </a>
     </td>
     <td>
@@ -45,7 +45,7 @@ I like building things that are a little bit useful and a little bit silly: AI-a
   <tr>
     <td width="130" align="center">
       <a href="https://github.com/Jesse-Voo/daily-puzzle-games">
-        <img src="https://raw.githubusercontent.com/Jesse-Voo/Jesse-Voo/main/assets/daily-puzzle-games-icon.svg" width="100" alt="daily-puzzle-games" />
+        <img src="https://raw.githubusercontent.com/Jesse-Voo/Jesse-Voo/main/assets/daily-puzzle-games-tile.svg" width="100" alt="daily-puzzle-games" />
       </a>
     </td>
     <td>
@@ -57,7 +57,7 @@ I like building things that are a little bit useful and a little bit silly: AI-a
   <tr>
     <td width="130" align="center">
       <a href="https://github.com/Jesse-Voo/SnapClaw">
-        <img src="https://raw.githubusercontent.com/Jesse-Voo/Jesse-Voo/main/assets/snapclaw-icon.svg" width="100" alt="SnapClaw" />
+        <img src="https://raw.githubusercontent.com/Jesse-Voo/Jesse-Voo/main/assets/snapclaw-tile.svg" width="100" alt="SnapClaw" />
       </a>
     </td>
     <td>
@@ -71,7 +71,7 @@ I like building things that are a little bit useful and a little bit silly: AI-a
   <tr>
     <td width="130" align="center">
       <a href="https://github.com/Jesse-Voo/O-en-O-pillendispenser">
-        <img src="https://raw.githubusercontent.com/Jesse-Voo/Jesse-Voo/main/assets/pillendispenser-icon.svg" width="100" alt="O-en-O-pillendispenser" />
+        <img src="https://raw.githubusercontent.com/Jesse-Voo/Jesse-Voo/main/assets/pillendispenser-tile.svg" width="100" alt="O-en-O-pillendispenser" />
       </a>
     </td>
     <td>
@@ -98,7 +98,7 @@ I like building things that are a little bit useful and a little bit silly: AI-a
 <br />
 
 <div align="center">
-<sub>Project icons: <a href="https://github.com/microsoft/fluentui-emoji">Fluent Emoji</a> (Microsoft, MIT) via <a href="https://iconify.design">Iconify</a>.</sub>
+<sub>Project icons: <a href="https://tabler.io/icons">Tabler Icons</a> (MIT) via <a href="https://iconify.design">Iconify</a>.</sub>
 <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=6,11,20&section=footer" alt="footer" width="100%" />
 </div>
