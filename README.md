@@ -44,6 +44,19 @@ I like building things that are a little bit useful and a little bit silly: AI-a
   </tr>
   <tr>
     <td width="130" align="center">
+      <a href="https://github.com/Jesse-Voo/imagegen-studio">
+        <img src="https://raw.githubusercontent.com/Jesse-Voo/Jesse-Voo/main/assets/imagegen-studio-tile.svg" width="100" alt="imagegen-studio" />
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/Jesse-Voo/imagegen-studio">imagegen-studio</a></h3>
+      Desktop app for generating images: pick Gemini, OpenAI, agy, free or local models, and refine your prompt first with Claude Code, Codex or agy.<br /><br />
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td width="130" align="center">
       <a href="https://github.com/Jesse-Voo/daily-puzzle-games">
         <img src="https://raw.githubusercontent.com/Jesse-Voo/Jesse-Voo/main/assets/daily-puzzle-games-tile.svg" width="100" alt="daily-puzzle-games" />
       </a>
